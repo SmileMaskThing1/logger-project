@@ -1,0 +1,1 @@
+This project is just a Python-based logging utility that probably may help developers keep track of application events and errors.
